@@ -1,0 +1,22 @@
+.carosol{
+    margin-bottom: 50px;
+    background-color:navy;
+    color: white;
+}
+.card-laptop,.card-mobile{
+    border: none;
+    box-shadow: 5px 5px 5px 3px slategray;
+}
+.laptop{
+    margin-top: 50px;
+}
+.master{
+    height: 400px;
+    margin-top: 100px;
+}
+.categoris-center{
+    text-align: center;
+}
+.middle{
+    text-align: center;
+}
